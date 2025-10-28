@@ -1,3 +1,23 @@
+Hola chicos, 
+
+TAREAS PENDIENTES:
+- Paleta de colores y fuentes
+- Mokup - Figma - https://www.figma.com/design/BIxJ9A1qIpk3NS97iNIOVc/Sin-t%C3%ADtulo?node-id=0-1&p=f&t=mls9PTFgFEuHMfH4-0
+- Carrusel
+- Header
+- Menu
+- Footer
+
+
+CONSULTAS AL PROFESOR
+- 
+
+
+
+RECORDATORIO: REUNION JUEVES 30 A LAS 20.30
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
